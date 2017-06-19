@@ -1,27 +1,27 @@
 package com.sq.testclass;
 
 /**
- * <b>ÎÄ¼şÃû£ºTestClassType <b>¹¦ÄÜÃèÊö£º</b>TODO<br>
+ * <b>æ–‡ä»¶åï¼šTestClassType <b>åŠŸèƒ½æè¿°ï¼š</b>TODO<br>
  * 
- * @author ËÎÇ¿ 591036149@qq.com
- * @date 2017Äê6ÔÂ15ÈÕ ÉÏÎç9:03:01
+ * @author å®‹å¼º 591036149@qq.com
+ * @date 2017å¹´6æœˆ15æ—¥ ä¸Šåˆ9:03:01
  * @version 1.0
  */
 public class TestClassType {
-	// ¹¹Ôìº¯Êı
+	// æ„é€ å‡½æ•°
 	public TestClassType() {
-		System.out.println("----¹¹Ôìº¯Êı---");
+		System.out.println("----æ„é€ å‡½æ•°---");
 	}
 
-	// ¾²Ì¬µÄ²ÎÊı³õÊ¼»¯
+	// é™æ€çš„å‚æ•°åˆå§‹åŒ–
 	static {
 
-		System.out.println("---¾²Ì¬µÄ²ÎÊı³õÊ¼»¯---");
+		System.out.println("---é™æ€çš„å‚æ•°åˆå§‹åŒ–---");
 
 	}
-	// ·Ç¾²Ì¬µÄ²ÎÊı³õÊ¼»¯
+	// éé™æ€çš„å‚æ•°åˆå§‹åŒ–
 	{
-		System.out.println("----·Ç¾²Ì¬µÄ²ÎÊı³õÊ¼»¯---");
+		System.out.println("----éé™æ€çš„å‚æ•°åˆå§‹åŒ–---");
 	}
 
 }

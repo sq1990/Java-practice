@@ -1,10 +1,10 @@
 package com.sq.Singleton;
 
 /**
- * Ïß³Ì°²È«µÄµ¥ÀıÄ£Ê½ <b>ÎÄ¼şÃû£ºSingleton <b>¹¦ÄÜÃèÊö£º</b>TODO<br>
+ * çº¿ç¨‹å®‰å…¨çš„å•ä¾‹æ¨¡å¼ <b>æ–‡ä»¶åï¼šSingleton <b>åŠŸèƒ½æè¿°ï¼š</b>TODO<br>
  * 
- * @author ËÎÇ¿ 591036149@qq.com
- * @date 2017Äê6ÔÂ16ÈÕ ÏÂÎç4:46:28
+ * @author å®‹å¼º 591036149@qq.com
+ * @date 2017å¹´6æœˆ16æ—¥ ä¸‹åˆ4:46:28
  * @version 1.0
  */
 public class Singleton {
