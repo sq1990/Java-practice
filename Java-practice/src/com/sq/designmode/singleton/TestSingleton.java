@@ -1,4 +1,4 @@
-package com.sq.Singleton;
+package com.sq.designmode.singleton;
 
 public class TestSingleton extends Thread {
 	@Override

@@ -1,4 +1,4 @@
-package com.sq.Singleton;
+package com.sq.designmode.singleton;
 
 /**
  * 线程安全的单例模式 <b>文件名：Singleton <b>功能描述：</b>TODO<br>
